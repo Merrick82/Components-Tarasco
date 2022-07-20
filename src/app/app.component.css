@@ -1,0 +1,8 @@
+.left, .right {
+    height: 100%;
+    width: 100%;
+}
+
+.left {
+    background: #7e5d3b;
+}
